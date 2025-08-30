@@ -1,0 +1,5 @@
+{
+    "editor.tokenColorCustomizations": {
+    "comments": "#0dc60d"   // 注释颜色（例如绿色）
+    }
+}
